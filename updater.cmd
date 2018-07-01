@@ -11,5 +11,5 @@ curl -O https://raw.githubusercontent.com/SteamDatabase/SalienCheat/master/downl
 curl -O https://raw.githubusercontent.com/SteamDatabase/SalienCheat/master/downloadpython.ps1
 curl -O https://raw.githubusercontent.com/SteamDatabase/SalienCheat/master/python-cheat.bat
 if not errorlevel 1 echo "Update done"
-pause
-Exit /B
+@echo off
+cheat.bat
