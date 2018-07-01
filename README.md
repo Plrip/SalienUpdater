@@ -1,0 +1,2 @@
+# SalienUpdater
+autoupdate
