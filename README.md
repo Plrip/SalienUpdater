@@ -1,6 +1,5 @@
 # SalienUpdater 
-# PHP 
-  Only for WINDOWS!
+  Only for WINDOWS and php script.
   
 	Make a update.cmd with this code in the cheat directory.
 	Cheat will be close automatical.
