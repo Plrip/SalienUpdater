@@ -13,3 +13,4 @@ curl -O https://raw.githubusercontent.com/SteamDatabase/SalienCheat/master/pytho
 if not errorlevel 1 echo "Update done"
 @echo off
 cheat.bat
+
